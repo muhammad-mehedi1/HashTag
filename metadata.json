@@ -1,0 +1,6 @@
+{
+  "name": "Hash-Tag - BM & Ads Account Marketplace",
+  "description": "Hash-Tag (হ্যাশ ট্যাগ): Facebook Business Manager & Ads account buying and selling marketplace with bKash, Rocket, Nagad, and Binance payment matching, instant credential unlocking, and wallet deposit system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
